@@ -1,0 +1,7 @@
+Servers
+.metadata
+.recommenders
+/**/target/
+!/.mvn/wrapper/maven-wrapper.properties
+/**/.mvn/
+/pom.xml.versionsBackup
